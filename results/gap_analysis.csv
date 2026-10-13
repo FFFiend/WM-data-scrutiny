@@ -1,0 +1,4 @@
+category,robot_coverage,ego_coverage,sim_coverage,best_supplement,supplement_coverage,gap_filled
+multi_object,0.078,0.0,0.367,sim,0.367,True
+occlusion,0.0,0.0,0.0,none,0.0,False
+failure_recovery,0.001,0.0,0.0,none,0.0,False

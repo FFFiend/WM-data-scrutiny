@@ -1,0 +1,17 @@
+============================================================
+FINDINGS: World Model Data Coverage Analysis
+============================================================
+
+Finding 1: Overall Coverage Distribution
+  robot: mean coverage 63.0%, strongest in Embodiment (100.0%), weakest in Occlusion & re-appearance (0.0%)
+  sim: mean coverage 66.9%, strongest in Embodiment (100.0%), weakest in Occlusion & re-appearance (0.0%)
+
+Finding 2: Categories Where Robot Data Is Thin
+  Multi-object interaction: robot 7.8%, ego 0.0%, sim 36.7% → best supplement: sim
+  Occlusion & re-appearance: robot 0.0%, ego 0.0%, sim 0.0% → best supplement: none
+  Failure / recovery: robot 0.1%, ego 0.0%, sim 0.0% → best supplement: none
+
+Finding 3: Gap → Remedy Mapping
+  Multi-object interaction: Sim generation (low domain gap, scalable)
+  Occlusion & re-appearance: Targeted teleop collection (no good supplement available)
+  Failure / recovery: Targeted teleop collection (no good supplement available)

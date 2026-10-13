@@ -1,0 +1,26 @@
+# Data loading
+datasets>=2.19
+huggingface-hub>=0.23
+tensorflow-datasets>=4.9
+lerobot>=0.1
+
+# Remote GPU inference
+modal>=0.64
+
+# Local vision (only opencv needed locally; heavy models run on Modal)
+opencv-python>=4.9
+pillow>=10.0
+
+# Analysis / plotting
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.13
+scikit-learn>=1.4
+
+# Utilities
+tqdm>=4.66
+rich>=13.7
+pyyaml>=6.0
+jsonschema>=4.21

@@ -1,0 +1,1797 @@
+[
+  {
+    "clip_id": "bridge_v2_014373",
+    "source": "bridge_v2",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_014373/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_014373/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_014373/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_014373/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_014373/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_014373/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_014373/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_014373/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "articulated|rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:widowx",
+      "dynamics": "idle|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "single_object"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "bridge_v2_034676",
+    "source": "bridge_v2",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_034676/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_034676/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_034676/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_034676/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_034676/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_034676/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_034676/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_034676/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:widowx",
+      "dynamics": "idle|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "single_object"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "bridge_v2_047323",
+    "source": "bridge_v2",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_047323/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_047323/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_047323/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_047323/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_047323/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_047323/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_047323/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_047323/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|tool_contact",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:widowx",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "bridge_v2_035343",
+    "source": "bridge_v2",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_035343/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_035343/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_035343/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_035343/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_035343/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_035343/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_035343/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_035343/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "deformable|rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:widowx",
+      "dynamics": "idle|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "single_object"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "bridge_v2_024836",
+    "source": "bridge_v2",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_024836/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_024836/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_024836/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_024836/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_024836/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_024836/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_024836/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_024836/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release|tool_contact",
+      "object_type": "articulated|deformable|rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:widowx",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "bridge_v2_048217",
+    "source": "bridge_v2",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_048217/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_048217/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_048217/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_048217/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_048217/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_048217/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_048217/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/bridge_v2/bridge_v2_048217/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release|tool_contact",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:widowx",
+      "dynamics": "idle|low_motion",
+      "occlusion": "",
+      "failure_recovery": "drop",
+      "scene_complexity": "single_object"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "droid_000054",
+    "source": "droid",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000054/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000054/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000054/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000054/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000054/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000054/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000054/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000054/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:franka",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects|single_object"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "droid_000004",
+    "source": "droid",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000004/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000004/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000004/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000004/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000004/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000004/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000004/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000004/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:franka",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "single_object"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "droid_000019",
+    "source": "droid",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000019/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000019/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000019/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000019/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000019/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000019/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000019/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000019/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:franka",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "droid_000091",
+    "source": "droid",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000091/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000091/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000091/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000091/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000091/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000091/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000091/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000091/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "insertion",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:franka",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "droid_000073",
+    "source": "droid",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000073/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000073/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000073/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000073/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000073/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000073/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000073/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/droid/droid_000073/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:franka",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_037353",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_037353/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_037353/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_037353/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_037353/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_037353/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_037353/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_037353/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_037353/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|push|release",
+      "object_type": "articulated|rigid",
+      "multi_object": "insertion",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_085717",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_085717/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_085717/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_085717/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_085717/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_085717/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_085717/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_085717/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_085717/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release|tool_contact",
+      "object_type": "deformable|rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_015129",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_015129/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_015129/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_015129/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_015129/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_015129/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_015129/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_015129/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_015129/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "articulated|rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_026685",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_026685/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_026685/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_026685/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_026685/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_026685/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_026685/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_026685/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_026685/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_031029",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_031029/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_031029/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_031029/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_031029/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_031029/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_031029/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_031029/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_031029/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_022810",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_022810/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_022810/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_022810/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_022810/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_022810/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_022810/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_022810/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_022810/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_074593",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_074593/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_074593/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_074593/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_074593/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_074593/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_074593/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_074593/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_074593/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "articulated|rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_057954",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_057954/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_057954/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_057954/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_057954/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_057954/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_057954/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_057954/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_057954/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|push|release",
+      "object_type": "articulated|rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_040687",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_040687/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_040687/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_040687/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_040687/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_040687/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_040687/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_040687/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_040687/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "articulated|rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_073259",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_073259/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_073259/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_073259/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_073259/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_073259/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_073259/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_073259/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_073259/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "push",
+      "object_type": "articulated|rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_066162",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_066162/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_066162/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_066162/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_066162/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_066162/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_066162/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_066162/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_066162/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "fractal_019769",
+    "source": "fractal",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_019769/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_019769/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_019769/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_019769/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_019769/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_019769/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_019769/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/fractal/fractal_019769/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "articulated|rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:rt1_robot",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_119196",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_119196/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_119196/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_119196/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_119196/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_119196/frame_004.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_085680",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_085680/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_085680/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_085680/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_085680/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_085680/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_085680/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_085680/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_085680/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_170853",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_170853/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_170853/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_170853/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_170853/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_170853/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_170853/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_170853/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_170853/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_112296",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_112296/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_112296/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_112296/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_112296/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_112296/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_112296/frame_005.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_113645",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_113645/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_113645/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_113645/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_113645/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_113645/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_113645/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_113645/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_113645/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_141078",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_141078/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_141078/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_141078/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_141078/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_141078/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_141078/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_141078/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_141078/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_159994",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_159994/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_159994/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_159994/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_159994/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_159994/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_159994/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_159994/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_159994/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_128077",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_128077/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_128077/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_128077/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_128077/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_128077/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_128077/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_128077/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_128077/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_062999",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_062999/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_062999/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_062999/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_062999/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_062999/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_062999/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_062999/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_062999/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_124804",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_124804/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_124804/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_124804/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_124804/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_124804/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_124804/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_124804/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_124804/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_048535",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_048535/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_048535/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_048535/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_048535/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_048535/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_048535/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_048535/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_048535/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "kuka_033103",
+    "source": "kuka",
+    "source_group": "robot",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_033103/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_033103/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_033103/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_033103/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_033103/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_033103/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_033103/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/kuka/kuka_033103/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type|robot_type:kuka_iiwa",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00020",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00020/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00020/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00020/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00020/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00020/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00020/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00020/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00020/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00081",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00081/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00081/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00081/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00081/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00081/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00081/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00081/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00081/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00083",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00083/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00083/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00083/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00083/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00083/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00083/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00083/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00083/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "deformable|rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00097",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00097/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00097/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00097/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00097/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00097/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00097/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00097/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00097/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00144",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00144/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00144/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00144/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00144/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00144/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00144/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00144/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00144/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "tool_contact",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00159",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00159/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00159/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00159/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00159/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00159/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00159/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00159/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00159/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00164",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00164/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00164/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00164/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00164/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00164/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00164/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00164/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00164/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00170",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00170/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00170/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00170/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00170/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00170/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00170/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00170/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00170/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00211",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00211/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00211/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00211/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00211/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00211/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00211/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00211/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00211/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "collision|stacking",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00219",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00219/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00219/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00219/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00219/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00219/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00219/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00219/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00219/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00231",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00231/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00231/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00231/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00231/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00231/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00231/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00231/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00231/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "stacking",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00237",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00237/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00237/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00237/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00237/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00237/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00237/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00237/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00237/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "stacking",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00242",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00242/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00242/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00242/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00242/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00242/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00242/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00242/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00242/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "fluid_granular|rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00260",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00260/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00260/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00260/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00260/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00260/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00260/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00260/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00260/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "articulated|rigid",
+      "multi_object": "",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "high_motion|low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  },
+  {
+    "clip_id": "robocasa_00288",
+    "source": "robocasa",
+    "source_group": "sim",
+    "frame_paths": [
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00288/frame_000.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00288/frame_001.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00288/frame_002.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00288/frame_003.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00288/frame_004.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00288/frame_005.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00288/frame_006.png",
+      "/Users/owaiszahid/Desktop/wmdata/WM-data-scrutiny/data/frames/robocasa/robocasa_00288/frame_007.png"
+    ],
+    "vlm_tags": {
+      "contact": "grasp|release",
+      "object_type": "rigid",
+      "multi_object": "collision",
+      "embodiment": "camera_placement|camera_placement:third_person|gripper_vs_hand|gripper_vs_hand:gripper|robot_type",
+      "dynamics": "low_motion",
+      "occlusion": "",
+      "failure_recovery": "",
+      "scene_complexity": "few_objects"
+    },
+    "hand_labels": {
+      "contact": [],
+      "object_type": [],
+      "multi_object": [],
+      "embodiment": [],
+      "dynamics": [],
+      "occlusion": [],
+      "failure_recovery": [],
+      "scene_complexity": []
+    },
+    "annotator_notes": ""
+  }
+]
