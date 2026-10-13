@@ -1,8 +1,8 @@
 # WM Training Data Coverage Audit
 
-Systematic coverage analysis of open-source manipulation datasets against a fixed taxonomy of physical phenomena relevant to world model training.
+Part of [Physical Reasoning](https://physicalreasoning.ai), an open source research collective studying world models.
 
-We tag 1,300 video clips from 5 datasets across 2 data domains (real robot teleoperation, simulation) and measure per-phenomenon coverage rates. The goal is to identify what physical phenomena are well-represented in existing robot data, where the gaps are, and whether simulation data can fill them.
+Systematic coverage analysis of open-source manipulation datasets against a fixed taxonomy of physical phenomena relevant to world model training. We tag 1,300 video clips from 5 datasets across 2 data domains (real robot teleoperation, simulation) and measure per-phenomenon coverage rates. The goal is to identify what physical phenomena are well-represented in existing robot data, where the gaps are, and whether simulation data can fill them.
 
 ## Key Findings
 
@@ -203,9 +203,21 @@ If you use this codebase or taxonomy, please cite:
   title={WM Training Data Coverage Audit},
   author={Zahid, Owais},
   year={2026},
-  url={https://github.com/FFFiend/WM-data-scrutiny}
+  url={https://github.com/physicalreasoning/WM-data-scrutiny}
 }
 ```
+
+## Related Projects
+
+This work is part of [Physical Reasoning](https://physicalreasoning.ai), an open source research collective studying world models. Other projects:
+
+| Project | Description |
+|---|---|
+| [isotherm](https://github.com/physicalreasoning/isotherm) | Calibrated decision model for Kalshi daily temperature ladders, evaluated walk-forward against market prices. |
+| [forward](https://github.com/physicalreasoning/forward) | Sealed forward tests for world models: entries frozen and hashed before each round opens. |
+| [causal-jepa](https://github.com/physicalreasoning/causal-jepa) | A negative result on joint-embedding predictive architectures for prediction-market strike ladders. |
+
+Read more at [physicalreasoning.ai/blog](https://physicalreasoning.ai/blog/).
 
 ## License
 
