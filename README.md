@@ -209,4 +209,4 @@ If you use this codebase or taxonomy, please cite:
 
 ## License
 
-MIT
+Apache License 2.0. See [LICENSE](LICENSE) for details.
