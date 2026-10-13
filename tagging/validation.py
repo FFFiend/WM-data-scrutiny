@@ -13,7 +13,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-from config import TAGS_DIR, FRAMES_DIR, AUDIT_DIR, HAND_LABEL_COUNT, HAND_LABELS_PER_CATEGORY
+from config import TAGS_DIR, FRAMES_DIR, AUDIT_DIR, HAND_LABEL_COUNT, HAND_LABELS_PER_CATEGORY, PROJECT_ROOT
 from taxonomy import CATEGORIES, CATEGORY_INFO
 
 
@@ -78,7 +78,7 @@ def generate_annotation_sheet(val_df: pd.DataFrame) -> Path:
             "clip_id": clip_id,
             "source": source,
             "source_group": row.get("source_group", ""),
-            "frame_paths": [str(p) for p in frame_paths],
+            "frame_paths": [str(p.relative_to(PROJECT_ROOT)) for p in frame_paths],
             "vlm_tags": {cat: row.get(cat, "") for cat in CATEGORIES},
             "hand_labels": {cat: [] for cat in CATEGORIES},
             "annotator_notes": "",
